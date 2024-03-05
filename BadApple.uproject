@@ -22,6 +22,14 @@
 		{
 			"Name": "CityBLD",
 			"Enabled": true
+		},
+		{
+			"Name": "Modern_CityKit",
+			"Enabled": true
+		},
+		{
+			"Name": "Sample_CityKit",
+			"Enabled": true
 		}
 	]
 }
