@@ -30,5 +30,6 @@ Features to be added in the future include:
   <li>AND MORE..........</li>
 </ul>
 <br>
-  <img src="https://youtu.be/vjC8YFDXj1I">
+<b>WATCH A PREVIEW at the link below</b>
+  https://youtu.be/vjC8YFDXj1I
 </div>
