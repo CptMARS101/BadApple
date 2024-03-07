@@ -4,6 +4,7 @@
   </p>
 
 <b>"BAD APPLE"</b> is the title for a video game I am currently working on. It's a zombie survival game set in Brooklyn,NY.
+<br>
 <b>Features currently include</b>:
 <br>
 <ul>
